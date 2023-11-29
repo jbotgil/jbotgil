@@ -1,7 +1,12 @@
 <h1 align="center"><b>Hola, Soy Javier Botella </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+<p align="center" style="font-size: 20px;"><b><img src="https://i.imgur.com/JePkjJ2.gif" alt="snake" style="width: 700px; margin: 0 50px;" /></b></p>
+
 <h3 align="center">Fanático del mundo Tech y estudiante de DAM en España &#x1f1ea;&#x1f1f8</h3>
 
+
+<!-- Centrar la siguiente imagen -->
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
@@ -49,7 +54,6 @@
       </td>
     </tr>
   </table>
-
 </div>
 
 ------
