@@ -26,7 +26,7 @@
 
 <br>
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming and Markup Languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
