@@ -5,17 +5,6 @@
 
 <h3 align="center">Fanático del mundo Tech y estudiante de DAM en España &#x1f1ea;&#x1f1f8</h3>
 
-
-<!-- Centrar la siguiente imagen -->
-<div align="center">
-  <!--<a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>-->
-  <picture>
-    <img alt="github-snake" src="github-snake.svg"/>
-  </picture>
-</div>
-
 <!--h2 sin bordes-->
 <div id="user-content-toc">
   <ul align="center">
@@ -25,7 +14,7 @@
 <br>
 
 <!--Intro start-->
-- 💭 Actualmente estoy estudiando el **1º año de DAM**
+- 💭 Actualmente voy estudiar el **2º año de DAM**
 
 <br>
 
