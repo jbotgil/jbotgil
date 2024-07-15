@@ -8,9 +8,12 @@
 
 <!-- Centrar la siguiente imagen -->
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <!--<a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
+  </a>-->
+  <picture>
+    <img alt="github-snake" src="github-snake.svg"/>
+  </picture>
 </div>
 
 <!--h2 sin bordes-->
