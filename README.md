@@ -14,7 +14,7 @@
 <br>
 
 <!--Intro start-->
-- 💭 Actualmente voy estudiar el **2º año de DAM**
+- 💭 Actualmente estoy estudiando el **2º año de DAM**
 
 <br>
 
@@ -56,4 +56,4 @@
 ------
 
 Credits: [jbotgil](https://github.com/jbotgil)
-Last Edited On: 15/07/2024
+Last Edited On: 21/11/2024
