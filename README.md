@@ -27,6 +27,8 @@
     <a href="https://github.com/search?q=user%3Ajbotgil+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     <a href="https://github.com/search?q=user%3Ajbotgil+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=namesilo"></a>
     <a href="https://github.com/search?q=user%3Ajbotgil+language%3Axml"><img alt="XML" src="https://img.shields.io/badge/XML-%23007ACC.svg?style=for-the-badge&logo=xml&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ajbotgil+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Ajbotgil+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
 <br>
@@ -56,4 +58,4 @@
 ------
 
 Credits: [jbotgil](https://github.com/jbotgil)
-Last Edited On: 21/11/2024
+Last Edited On: 13/01/2025
