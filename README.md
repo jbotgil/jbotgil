@@ -3,7 +3,7 @@
 
 <p align="center" style="font-size: 20px;"><b><img src="https://i.imgur.com/JePkjJ2.gif" alt="snake" style="width: 700px; margin: 0 50px;" /></b></p>
 
-<h3 align="center">Fanático del mundo Tech y estudiante de DAM en España &#x1f1ea;&#x1f1f8</h3>
+<h3 align="center">Fanático del mundo Tech en España &#x1f1ea;&#x1f1f8</h3>
 
 <!--h2 sin bordes-->
 <div id="user-content-toc">
@@ -14,7 +14,7 @@
 <br>
 
 <!--Intro start-->
-- 💭 Actualmente estoy estudiando el **2º año de DAM**
+- 💭 Junior Software Developer
 
 <br>
 
@@ -58,4 +58,4 @@
 ------
 
 Credits: [jbotgil](https://github.com/jbotgil)
-Last Edited On: 13/01/2025
+Last Edited On: 15/07/2025
