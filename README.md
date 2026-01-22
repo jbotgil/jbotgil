@@ -1,7 +1,11 @@
 <h1 align="center">Hola, soy Javier Botella <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/JePkjJ2.gif" alt="Snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jbotgil/jbotgil/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jbotgil/jbotgil/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jbotgil/jbotgil/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <h3 align="center">Fanático del mundo Tech en España &#x1f1ea;&#x1f1f8;</h3>
